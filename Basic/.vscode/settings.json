@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/straw/miniconda3/bin/python",
+    "files.associations": {
+        "*.tcc": "cpp"
+    }
+}
